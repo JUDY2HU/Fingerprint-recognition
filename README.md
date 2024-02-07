@@ -1,5 +1,5 @@
-# Fingerprint-recognition
-Fingerprint_recognition  Matlab指纹识别系统
+# Fingerprint-recognition Matlab指纹识别系统
+
 
 
 
